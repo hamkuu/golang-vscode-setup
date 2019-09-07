@@ -1,0 +1,9 @@
+{
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "editor.fontSize": 11,
+  "editor.tabSize": 2,
+
+  "go.autocompleteUnimportedPackages": true,
+  "go.formatTool": "gofmt"
+}
